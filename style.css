@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+}
+.taka{
+
+    font-size: 15px;
+    color: sandybrown;
+}
+.orang{
+    color: orange;
+}
+.button{
+    margin: 5px 0px;
+}
+.banner .button img{
+    width: 10%;
+}
+.banner img{
+    width: 100%;
+}
+.banner-text{
+    width: 10%;
+}
+.banner,.nav{
+    background-color: rgb(243, 234, 222);
+}
+.last-class{
+    margin-left: 40%;
+    width: 70%;
+}
+.about img{
+ width: 25%;
+ float: left;
+}
+.jacket{
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(240, 234, 234);
+}
+.card-footer .button{
+    margin-left:  20%;
+}
